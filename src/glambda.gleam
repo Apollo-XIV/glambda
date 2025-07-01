@@ -51,7 +51,7 @@
 
 import gleam/bit_array
 import gleam/dict.{type Dict}
-import gleam/dynamic.{type Dynamic}
+import gleam/dynamic/decode.{type Dynamic}
 import gleam/http
 import gleam/http/request.{type Request, Request}
 import gleam/http/response.{type Response, Response}
